@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 """Offline USD planning model using historical list-price benchmarks.
 Prices and packaging have not been checked live; replace with written quotes.
-See README.md for capacity assumptions, exclusions and the MIT license.
+See README.md for capacity benchmarks, exclusions and the MIT license.
 """
 import argparse
 import json
